@@ -1,0 +1,6 @@
+name                            : Total.js with socket.io
+author                          : Greg Kroczek
+version                         : 1.0.0
+secret                          : secret-key-for-web
+
+allow-websocket                 : false
